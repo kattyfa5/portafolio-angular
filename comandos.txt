@@ -1,0 +1,13 @@
+****crear proyecto
+ng new nombre
+
+****ejecutar proyecto
+ng serve -o
+
+****crear archivo
+ng g c shared/header
+
+
+git
+**** recuperar cambios
+git checkout -- .
