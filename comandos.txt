@@ -8,6 +8,13 @@ ng serve -o
 ng g c shared/header
 
 
-git
+--------------------------------git
 **** recuperar cambios
 git checkout -- .
+
+**** ver el estatus
+git s
+
+**** guardar cambios
+git add .
+git commit -m ""
