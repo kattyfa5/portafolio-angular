@@ -7,6 +7,9 @@ ng serve -o
 ****crear archivo
 ng g c shared/header
 
+****crear servicio
+ng g s services/infoPagina
+
 
 --------------------------------git
 **** recuperar cambios
